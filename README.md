@@ -41,6 +41,9 @@ user=ixe013
 repo=notifu
 ```
 
+A file named `dist-repos.ini.php` is available to get you started. Copy it to `repos.ini.php`.
+
+
 ## Options
 
 Two optional settings are supported:
